@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Hugo
+# Hey, I'm Hugo👋
 
 **Full-Stack Developer | React • Next.js • Node.js • TypeScript**  
 
