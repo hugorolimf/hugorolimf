@@ -14,7 +14,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou desenvolvedor full-stack apaixonado por criar aplicações que resolvem problemas reais e impactam vidas. Meu foco está em desenvolvimento criativo, com ênfase em código limpo, escalável e bem estruturado.
+  Sou desenvolvedor full-stack, crio aplicações e soluções que resolvem problemas reais.
 </p>
 
 ### Stack Tecnológico
@@ -34,7 +34,7 @@
 ### Habilidades
 
 <p align="left">
-   Arquitetura de Software • Prompt Engineering • Clean Code • REST API • GraphQL
+   Arquitetura de Software • Prompt Engineering • REST API
 </p>
 
 ---
