@@ -24,7 +24,7 @@
   <br/>
   <strong>Backend:</strong> Node.js, Python, PHP
   <br/>
-  <strong>Linguagens:</strong> JavaScript, TypeScript
+  <strong>Linguagens:</strong> JavaScript, TypeScript, React Native
   <br/>
   <strong>Bancos de Dados:</strong> PostgreSQL, MySQL
   <br/>
