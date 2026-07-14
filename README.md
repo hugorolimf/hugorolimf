@@ -28,7 +28,7 @@
   <br/>
   <strong>Bancos de Dados:</strong> PostgreSQL, MySQL
   <br/>
-  <strong>Cloud & BaaS:</strong> Supabase, Firebase
+  <strong>Cloud & BaaS:</strong> Supabase
 </p>
 
 ### Habilidades
