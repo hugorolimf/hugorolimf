@@ -2,7 +2,7 @@
 
 # Hi, I'm Hugo 👋
 
-**Full-Stack Developer | Rust • Next.js • Node.js • TypeScript**
+**Full-Stack Developer | Rust • AI • Automation**
 
 </div>
 
