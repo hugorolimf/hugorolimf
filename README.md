@@ -19,7 +19,7 @@
 ### Tech Stack
 
 <p align="left">
-  <strong>Frontend:</strong> Claude
+  <strong>Frontend:</strong> egui (Rust, desktop & WebAssembly), React, Next.js
   <br/>
   <strong>Backend:</strong> Rust (primary), Node.js, Python, PHP
   <br/>
