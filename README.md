@@ -19,7 +19,7 @@
 ### Tech Stack
 
 <p align="left">
-  <strong>Frontend:</strong> HTML, CSS, JavaScript, React, Next.js, egui (Rust, desktop &amp; WebAssembly)
+  <strong>Frontend:</strong> HTML, CSS, JavaScript, egui (Rust, desktop &amp; WebAssembly)
   <br/>
   <strong>Backend:</strong> Rust (primary), Node.js, Python, PHP
   <br/>
