@@ -19,7 +19,7 @@
 ### Tech Stack
 
 <p align="left">
-  <strong>Frontend:</strong> React, Next.js, Tailwind CSS
+  <strong>Frontend:</strong> Claude
   <br/>
   <strong>Backend:</strong> Rust (primary), Node.js, Python, PHP
   <br/>
